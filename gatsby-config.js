@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/demos/basic-flickr-feed/",
   plugins: [
     {
       resolve: 'gatsby-source-flickr',
